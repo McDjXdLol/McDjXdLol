@@ -5,7 +5,7 @@
 > Not coding every day, but when I do, I try not to cause an apocalypse.
 
 🎮 **What I do:**  
-Making things in Python, and a little bit of HTML mixed with JavaScript and a little bit of CSS.  
+Mostly working in Python, with a bit of HTML and JavaScript. 
 By day, an office ninja, but in my head, I’m crafting epic quests and boss fights.  
 🔥 Plans? To build apps that sometimes even start on the first try 😎
 
